@@ -1,0 +1,7 @@
+/data/*
+/fig/*
+#!/data/clusters/
+/.ipynb_checkpoints/
+*.DS_Store
+dat/c382-result.csv
+dat/*.csv
